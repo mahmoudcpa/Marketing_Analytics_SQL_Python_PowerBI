@@ -1,0 +1,101 @@
+﻿CustomerID,CustomerName,Email,Gender,Age,AgeCategory,Country,City
+1,Emma Anderson,emma.anderson@example.com,Male,50,Middle Age,Germany,Berlin
+2,Sarah Brown,sarah.brown@example.com,Female,37,Young,Spain,Madrid
+3,Robert Hernandez,robert.hernandez@example.com,Female,26,Young,Netherlands,Amsterdam
+4,David Garcia,david.garcia@example.com,Male,25,Young,Sweden,Stockholm
+5,Emma Miller,emma.miller@example.com,Female,41,Middle Age,Spain,Madrid
+6,Daniel Rodriguez,daniel.rodriguez@example.com,Male,31,Young,Belgium,Brussels
+7,Laura Miller,laura.miller@example.com,Male,35,Young,Belgium,Brussels
+8,James Gonzalez,james.gonzalez@example.com,Female,18,Under 24,Sweden,Stockholm
+9,Emily Thomas,emily.thomas@example.com,Male,29,Young,Austria,Vienna
+10,Chris Davis,chris.davis@example.com,Female,46,Middle Age,Germany,Berlin
+11,Emma Garcia,emma.garcia@example.com,Male,54,Senior,Austria,Vienna
+12,James Lopez,james.lopez@example.com,Female,43,Middle Age,Belgium,Brussels
+13,David Wilson,david.wilson@example.com,Male,50,Middle Age,UK,London
+14,Olivia Wilson,olivia.wilson@example.com,Male,60,Senior,Spain,Madrid
+15,Emma Martinez,emma.martinez@example.com,Male,32,Young,Switzerland,Zurich
+16,Michael Martinez,michael.martinez@example.com,Male,40,Young,Italy,Rome
+17,Daniel Thomas,daniel.thomas@example.com,Female,46,Middle Age,Germany,Berlin
+18,Robert Lopez,robert.lopez@example.com,Female,38,Young,Italy,Rome
+19,Emma Wilson,emma.wilson@example.com,Female,36,Young,Netherlands,Amsterdam
+20,David Johnson,david.johnson@example.com,Male,22,Under 24,UK,London
+21,Olivia Gonzalez,olivia.gonzalez@example.com,Female,40,Young,Spain,Madrid
+22,Alex Wilson,alex.wilson@example.com,Male,53,Senior,Germany,Berlin
+23,Isabella Garcia,isabella.garcia@example.com,Female,37,Young,Italy,Rome
+24,Chris Hernandez,chris.hernandez@example.com,Male,25,Young,Italy,Rome
+25,David Anderson,david.anderson@example.com,Male,26,Young,Italy,Rome
+26,Isabella Thomas,isabella.thomas@example.com,Male,31,Young,UK,London
+27,John Rodriguez,john.rodriguez@example.com,Male,23,Under 24,UK,London
+28,Emily Davis,emily.davis@example.com,Female,18,Under 24,Switzerland,Zurich
+29,Sophia Anderson,sophia.anderson@example.com,Female,26,Young,Italy,Rome
+30,Alex Garcia,alex.garcia@example.com,Female,33,Young,Belgium,Brussels
+31,Daniel Jones,daniel.jones@example.com,Male,33,Young,Austria,Vienna
+32,Laura Anderson,laura.anderson@example.com,Female,29,Young,Spain,Madrid
+33,David Thomas,david.thomas@example.com,Male,22,Under 24,Spain,Madrid
+34,Daniel Miller,daniel.miller@example.com,Male,57,Senior,France,Paris
+35,Robert Rodriguez,robert.rodriguez@example.com,Female,46,Middle Age,Germany,Berlin
+36,Emma Johnson,emma.johnson@example.com,Female,63,Old,France,Paris
+37,Olivia Lopez,olivia.lopez@example.com,Female,44,Middle Age,Germany,Berlin
+38,John Garcia,john.garcia@example.com,Male,28,Young,Spain,Madrid
+39,Jane Miller,jane.miller@example.com,Female,64,Old,Italy,Rome
+40,Olivia Thomas,olivia.thomas@example.com,Female,67,Old,Germany,Berlin
+41,Laura Wilson,laura.wilson@example.com,Male,45,Middle Age,Germany,Berlin
+42,John Gonzalez,john.gonzalez@example.com,Female,69,Old,UK,London
+43,Olivia Hernandez,olivia.hernandez@example.com,Male,53,Senior,Sweden,Stockholm
+44,Olivia Brown,olivia.brown@example.com,Female,59,Senior,Switzerland,Zurich
+45,Sarah Hernandez,sarah.hernandez@example.com,Female,36,Young,Italy,Rome
+46,Chris Johnson,chris.johnson@example.com,Male,52,Senior,Spain,Madrid
+47,Sophia Thomas,sophia.thomas@example.com,Male,69,Old,Netherlands,Amsterdam
+48,Alex Gonzalez,alex.gonzalez@example.com,Female,48,Middle Age,Belgium,Brussels
+49,Michael Smith,michael.smith@example.com,Female,61,Old,Spain,Madrid
+50,Olivia Miller,olivia.miller@example.com,Male,36,Young,France,Paris
+51,Michael Davis,michael.davis@example.com,Female,63,Old,Austria,Vienna
+52,Robert Williams,robert.williams@example.com,Female,41,Middle Age,Switzerland,Zurich
+53,Emma Thomas,emma.thomas@example.com,Female,19,Under 24,Germany,Berlin
+54,Michael Gonzalez,michael.gonzalez@example.com,Female,24,Under 24,Italy,Rome
+55,Emily Lopez,emily.lopez@example.com,Female,60,Senior,UK,London
+56,Sophia Davis,sophia.davis@example.com,Female,66,Old,Switzerland,Zurich
+57,James Rodriguez,james.rodriguez@example.com,Male,48,Middle Age,Spain,Madrid
+58,Jane Williams,jane.williams@example.com,Male,34,Young,Austria,Vienna
+59,James Smith,james.smith@example.com,Female,44,Middle Age,Netherlands,Amsterdam
+60,John Thomas,john.thomas@example.com,Male,53,Senior,Netherlands,Amsterdam
+61,Emma Rodriguez,emma.rodriguez@example.com,Female,67,Old,Germany,Berlin
+62,Michael Hernandez,michael.hernandez@example.com,Male,60,Senior,Sweden,Stockholm
+63,John Davis,john.davis@example.com,Male,27,Young,Switzerland,Zurich
+64,Sarah Martinez,sarah.martinez@example.com,Female,62,Old,Belgium,Brussels
+65,Olivia Rodriguez,olivia.rodriguez@example.com,Female,31,Young,Italy,Rome
+66,Isabella Martinez,isabella.martinez@example.com,Female,24,Under 24,Sweden,Stockholm
+67,Alex Johnson,alex.johnson@example.com,Female,56,Senior,Spain,Madrid
+68,David Gonzalez,david.gonzalez@example.com,Female,57,Senior,Netherlands,Amsterdam
+69,Emma Gonzalez,emma.gonzalez@example.com,Male,26,Young,Spain,Madrid
+70,James Garcia,james.garcia@example.com,Female,31,Young,Belgium,Brussels
+71,Isabella Miller,isabella.miller@example.com,Female,25,Young,Italy,Rome
+72,Sophia Miller,sophia.miller@example.com,Female,34,Young,Sweden,Stockholm
+73,Sarah Gonzalez,sarah.gonzalez@example.com,Male,40,Young,Spain,Madrid
+74,Jane Smith,jane.smith@example.com,Male,33,Young,UK,London
+75,David Smith,david.smith@example.com,Female,43,Middle Age,Netherlands,Amsterdam
+76,Michael Lopez,michael.lopez@example.com,Female,26,Young,Austria,Vienna
+77,David Lopez,david.lopez@example.com,Male,53,Senior,Spain,Madrid
+78,Olivia Smith,olivia.smith@example.com,Female,24,Under 24,Sweden,Stockholm
+79,John Jones,john.jones@example.com,Female,35,Young,Netherlands,Amsterdam
+80,Laura Jones,laura.jones@example.com,Female,25,Young,Netherlands,Amsterdam
+81,Emily Wilson,emily.wilson@example.com,Male,38,Young,Switzerland,Zurich
+82,Laura Gonzalez,laura.gonzalez@example.com,Male,43,Middle Age,UK,London
+83,Emily Jones,emily.jones@example.com,Male,20,Under 24,Switzerland,Zurich
+84,Michael Williams,michael.williams@example.com,Female,34,Young,Spain,Madrid
+85,Jane Hernandez,jane.hernandez@example.com,Male,68,Old,Belgium,Brussels
+86,James Hernandez,james.hernandez@example.com,Male,63,Old,Austria,Vienna
+87,Emma Hernandez,emma.hernandez@example.com,Male,41,Middle Age,Spain,Madrid
+88,James Brown,james.brown@example.com,Male,42,Middle Age,France,Paris
+89,Alex Rodriguez,alex.rodriguez@example.com,Male,22,Under 24,Sweden,Stockholm
+90,John Wilson,john.wilson@example.com,Male,54,Senior,UK,London
+91,John Brown,john.brown@example.com,Female,62,Old,Spain,Madrid
+92,David Hernandez,david.hernandez@example.com,Female,67,Old,UK,London
+93,Jane Rodriguez,jane.rodriguez@example.com,Female,41,Middle Age,Spain,Madrid
+94,Jane Anderson,jane.anderson@example.com,Male,48,Middle Age,Belgium,Brussels
+95,James Jones,james.jones@example.com,Male,43,Middle Age,Germany,Berlin
+96,Emily Gonzalez,emily.gonzalez@example.com,Female,38,Young,Austria,Vienna
+97,Emily Rodriguez,emily.rodriguez@example.com,Female,51,Senior,France,Paris
+98,Chris Lopez,chris.lopez@example.com,Female,55,Senior,Austria,Vienna
+99,Laura Hernandez,laura.hernandez@example.com,Male,41,Middle Age,Italy,Rome
+100,Jane Brown,jane.brown@example.com,Female,45,Middle Age,Austria,Vienna
